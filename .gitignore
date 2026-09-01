@@ -1,0 +1,31 @@
+# Node
+node_modules/
+
+# Environment
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Frontend
+frontend/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Coverage
+coverage/
+
+# Temporary
+tmp/
+temp/
